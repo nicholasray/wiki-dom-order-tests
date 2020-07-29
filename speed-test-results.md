@@ -1,4 +1,4 @@
-21 tests showing bytes downloaded before start render (first paint) from 265,480 Bytes Barack Obama page
+24 tests showing bytes downloaded before start render (first paint) from 265,480 Bytes Barack Obama page
 
 * Ireland - EC2 Windows - Chrome - Native: 240,092 (90%)
 * Amsterdam, NL - IISpeed - Chrome - Native: 174,559 (66%)
