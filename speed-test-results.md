@@ -28,5 +28,5 @@
 1 test showing bytes downloaded before start render (first paint) from 95,375 Bytes B8_polytope page
 * Ireland - EC2 Windows - Chrome - Native on B8_polytope page: 48,437 (50%)
 
-1 test showing bytes downloaded before start render (first paint) from 91,548 Bytes Tree page
+1 test showing bytes downloaded before start render (first paint) from 122,687 Bytes Tree page
 * Lincoln, Nebraska USA - Chrome - Native: 100%
