@@ -25,5 +25,8 @@
 * Virginia USA - EC2 - Chrome - DSL: 100%
 * Virginia USA - EC2 - Chrome - 4G: 100%
 
-1 test
-Ireland - EC2 Windows - Chrome - Native on B8_polytope page: 48437 / 96375 = 50%
+1 test showing bytes downloaded before start render (first paint) from 95,375 Bytes B8_polytope page
+* Ireland - EC2 Windows - Chrome - Native on B8_polytope page: 48,437 (50%)
+
+1 test showing bytes downloaded before start render (first paint) from 91,548 Bytes Tree page
+* Lincoln, Nebraska USA - Chrome - Native: 100%
